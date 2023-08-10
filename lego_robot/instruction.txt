@@ -1,0 +1,6 @@
+Main file for running the program p-controller is "p_controller_v3.py"
+The data needed for running the program  have to be copied from previous generation created in "path smoothing"
+Folder consist example path for running
+File "main_LEGO_basic.py" consist a basic function for created library
+File "pcontroler_basic.py" consist a simple p_controller code
+
